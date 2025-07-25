@@ -25,7 +25,7 @@ body {
 
 header {
   display: flex;
-  width: 100vw;
+  width: 100%;
   background: rgba(0, 0, 0, 0.9);
   justify-content: end;
   align-items: center;
@@ -259,6 +259,13 @@ img {
   header {
     padding: 20px;
   }
+  .imgprincipal {
+    width: 0;
+  }
+  .principal{
+    min-height: 300px;
+    margin-top: 95px;
+  }
 
   ul {
     gap: 20px;
@@ -266,7 +273,7 @@ img {
   }
 
   .principal h1 {
-    font-size: 50px;
+    font-size: 35px;
   }
 
   .secao {
@@ -278,6 +285,20 @@ img {
   }
 
   .img-sobre {
-    height: auto;
+    height: 400px;
+    margin: auto;
   }
+  .tag-habilidades{
+    font-size: 10px;
+  }
+  footer p {
+ font-size: 18px;
+}
+.botao-contato{
+    gap: 0px;
+    min-width: 50px;
+}
+.card-projeto {
+    margin: 0 45px 15px 5px;
+}
 }
