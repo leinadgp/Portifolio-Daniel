@@ -2,13 +2,17 @@
 
 Bem-vindo ao meu portfólio de desenvolvedor front-end! Aqui você encontrará meus principais projetos, habilidades técnicas, e formas de contato profissional.
 
-## 🧩 Sobre Mim
+# 🖼️ Demonstração
+
+  ![Demonstração](capa.png)
+
+# 🧩 Sobre Mim
 
 Sou um desenvolvedor front-end de Taquara/RS, com experiência em projetos freelance e acadêmicos. Tenho paixão por criar interfaces modernas, funcionais e responsivas.
 
 Atualmente atuo também na área de redes, e estou sempre em busca de novos desafios e aprendizados.
 
-## 🚀 Tecnologias que utilizo
+# 🚀 Tecnologias que utilizo
 
 - HTML5, CSS3, JavaScript (ES6+)
 - React, Styled Components
@@ -16,7 +20,7 @@ Atualmente atuo também na área de redes, e estou sempre em busca de novos desa
 - Git & GitHub
 - Hospedagem: GitHub Pages, InfinityFree
 
-## 🖼️ Projetos em Destaque
+# 🖼️ Projetos em Destaque
 
 | Projeto               | Tecnologias        | Link                                                                 |
 |-----------------------|--------------------|----------------------------------------------------------------------|
@@ -25,17 +29,17 @@ Atualmente atuo também na área de redes, e estou sempre em busca de novos desa
 | 🍔 Hamburgueria CRUD  | PHP, MySQL, JS     | [Ver Projeto](https://danielguimaraes.infinityfree.me)              |
 | 💼 Ver Todos Projetos | GitHub             | [GitHub Repos](https://github.com/leinadgp?tab=repositories)        |
 
-## 🌐 Acesse o Portfólio Online
+# 🌐 Acesse o Portfólio Online
 
 👉 [danielguimaraes.vercel.app](https://leinadgp.github.io/projeto_dev_movie/)
 
-## 📫 Contato
+# 📫 Contato
 
-- 📧 Email: daniel.gp1998@gmail.com
-- 💼 [LinkedIn](https://linkedin.com/in/danielguimaraespedrozo)
+- 📧 Email: leinadgp@gmail.com
+- 💼 [LinkedIn](https://linkedin.com/in/danielguimaraespedrozo/)
 - 🐱 [GitHub](https://github.com/leinadgp)
 
-## 🏆 Certificações
+# 🏆 Certificações
 
 - 
 - 
